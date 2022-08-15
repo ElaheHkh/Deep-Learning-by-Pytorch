@@ -1,7 +1,7 @@
-# Deep-Learning-by-Pytorch
-Tutorial of Machine Learning, Deep Learning by Pytorch
+# Deep Learning by Pytorch Part 1 Gradient Descent
+Tutorial of Machine Learning and Deep Learning by Pytorch
 
-Part 1 ==> Gradient Descent
+
 
 ## Create tensors:
 - x = torch.tensor(3.) --> tensor(3.) -->  y is Undifferentiable based on x
