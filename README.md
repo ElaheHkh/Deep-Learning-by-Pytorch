@@ -12,15 +12,15 @@ Tutorial of Machine Learning and Deep Learning by Pytorch
  
 -  y = w * x + b
 
-##Compute derivatives
+## Compute derivatives
  
 - y.backward()
 
 ## Display gradients
 
-- print('dy/dx:', x.grad) ==> dy/dx: None
-- print('dy/dw:', w.grad) ==> dy/dw: tensor(3.)
-- print('dy/db:', b.grad) ==> dy/db: tensor(1.)
+- print('dy/dx:', x.grad) --> dy/dx: None
+- print('dy/dw:', w.grad) --> dy/dw: tensor(3.)
+- print('dy/db:', b.grad) --> dy/db: tensor(1.)
 
 
 
