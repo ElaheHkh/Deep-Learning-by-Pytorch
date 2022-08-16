@@ -1,6 +1,11 @@
 # Deep Learning by Pytorch Part 1 Gradient Descent
 Tutorial of Machine Learning and Deep Learning by Pytorch
-
+## Train the Model Steps
+### 1- Generate Predictions
+### 2- Calculate the loss
+### 3- Compute Gradients w.r.t the weights and biases
+### 4- Adjust the weights bu subtraqcting a smaqll quantity proportional to the gradient
+### 5- Reset the gradients to zero
 
 
 ## Create tensors:
